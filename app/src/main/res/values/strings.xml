@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">Ensiklopedia IT</string>
+    <string name="tentang">Tentang</string>
+    <string name="referensi">Referensi</string>
+    <string name="android">Android</string>
+    <string name="internet">Internet</string>
+    <string name="intranet">Intranet</string>
+
+
+
+    <string name="contenttentang">
+        Aplikasi Ensiklopedia Teknologi Informasi
+        merupakan ensiklopedia yang menampilkan
+        istilah-istilah teknologi informasi dengan
+        dengan konten yang mudah dipahami.
+
+        \n
+        \n
+        Istilah yang ditampilkan yaitu seputar hardware,
+        software, internet dan dunia seputar teknologi informasi.
+
+    </string>
+
+
+    <string name="isireferensi">
+
+        Referensi-referensi :
+        \n
+        \n
+
+        - Kamus Istilah Teknologi dan Informatika
+        \n \n- Merakit Komputer
+       \n  \n- Pemrograman Aplikasi android berbasis smartphone
+        \n \n- Jaringan Komputer
+
+        \n \n- Youtube
+
+
+
+    </string>
+
+    <string name="analogi">
+
+    </string>
+
+
+    <string name="isiandroid">
+
+        Android adalah sistem operasi yang digunakan di smartphone dan juga tablet PC. Fungsinya sama seperti sistem operasi Symbian di Nokia, iOS di Apple dan BlackBerry OS.
+Android tidak terikat ke satu merek Handphone saja, beberapa vendor terkenal yang sudah memakai Android antara lain Samsung, Sony Ericsson, HTC, Nexus, dan lainnya.
+        \n
+        \nAndroid pertama kali dikembangkan oleh perusahaan bernama Android Inc.,
+        dan pada tahun 2005 di akuisisi oleh raksasa Internet Google. Android dibuat dengan basis kernel Linux yang telah dimodifikasi, dan untuk setiap release-nya diberi kode nama berdasarkan nama makanan.
+
+
+    </string>
+
+
+    <string name="isiandroid2">
+
+        Keunggulan android :
+
+          \n \n1. User Friendly
+        \nKalimat ini sangat melekat pada sistem operasi Windows miliknya microsoft, ibaratnya kita dengan sangat mudah mengoprasikan komputer hanya dengan belajar beberapa hari bahkan beberapa jam saja, dan ini juga melekat pada Android yang berjalan pada Smartphone.
+
+        \n \n2. Notifications
+
+        \nAnda dengan sangat mudah mendapatkan notifikasi dari smartphone android dengan mengatur beberapa akun Email, SMS , Voice Dial, Update dan lain sebagainya.
+
+        \n \n3. Tampilan
+        \nDari segi tampilan, Android tidak kalah bagusnya dari iOS miliknya Apple, karena memang dari awal android hampir mengusung teknologi iOS, hanya saja ini versi murahnya.
+
+           \n \n4. Open Source
+        \nOperating system ini memang dibuat open source oleh penciptanya, karena memang berbasis kernel Linux. Jadi jangan kaget jika diluar sana ada banyak sekali Custom Rom untuk masing-masing perangkat android.
+
+        \n \n5. Aplikasi
+        \nUntuk Aplikasi anda akan disajikan jutaan pilihan aplikasi yang menarik dari yang gratis hingga berbayar, dan  bisa di download pada playstore.
+
+
+
+
+    </string>
+
+
+
+    <string name="isiandroid3">
+        Versi-versi Android :
+        \n
+        \n- Android 1.0 (API level 1)
+        \n- Android 1.1 (API level 2)
+        \n- Android 1.5 Cupcake (API level 3)
+        \n- Android 1.6 Donut (API level 4)
+        \n- Android 2.0 Eclair (API level 5)
+        \n- Android 2.0.1 Eclair (API level 6)
+        \n- Android 2.1 Eclair (API level 7)
+        \n-Android 2.2–2.2.3 Froyo (API level 8)
+         \n- Android 2.3–2.3.2 Gingerbread (API level 9)
+        \n- Android 2.3.3–2.3.7 Gingerbread (API level 10)
+        \n- Android 3.0 Honeycomb (API level 11)
+        \n- Android 3.1 Honeycomb (API level 12)
+        \n- Android 3.2 Honeycomb (API level 13)
+        \n- Android 4.0–4.0.2 Ice Cream Sandwich (API level 14)
+        \n- Android 4.0.3–4.0.4 Ice Cream Sandwich (API level 15)
+        \n- Android 4.1 Jelly Bean (API level 16)
+        \n- Android 4.2 Jelly Bean (API level 17)
+        \n- Android 4.3 Jelly Bean (API level 18)
+        \n- Android 4.4 KitKat (API level 19)
+        \n- Android 5.0 Lollipop (API level 21)
+        \n- Android 6.0 Marshmallow (API level 23)
+
+
+
+
+    </string>
+</resources>
